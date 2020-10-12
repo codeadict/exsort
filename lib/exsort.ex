@@ -12,7 +12,7 @@ defmodule Exsort do
       :world
 
   """
-  def hello do
+  def format_string!(_input, _opts) do
     :world
   end
 end
